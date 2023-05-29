@@ -1,4 +1,4 @@
-Foi o utilizado o software Jira.
+Foi utilizado o software Jira.
 
 Criei a historia de dois usarios com a finalizade do web analise.
 Criei a equipe, seus criterios tecnicos, prazos para entrega e critérios de aceitação.
